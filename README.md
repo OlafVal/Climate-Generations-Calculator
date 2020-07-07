@@ -6,3 +6,5 @@
 - Version 1.0 | 07.07.2020
 - by Olaf Val
 - CC BY 4.0
+
+https://olafval.de/cgc/
